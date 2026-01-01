@@ -1,2 +1,2 @@
-# Data-Analysis-Portfolio sales
+#Sales_Retail Data-Analysis-Portfolio 
 Projects for Junior Data Analyst Portfolio
